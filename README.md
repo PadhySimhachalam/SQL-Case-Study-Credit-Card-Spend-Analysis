@@ -16,8 +16,8 @@ Tech Stack
 
 Data Source
 -----------------------------
-Source: `credit_card_transactions.csv`  
-
+Source: [`credit_card_transactions.csv`  
+](https://github.com/PadhySimhachalam/SQL-Case-Study-Credit-Card-Spend-Analysis/tree/main/Data)
 - Transaction details → Transaction ID, Date, City, Card Type, Expense Type, Gender , Amount
  
 
